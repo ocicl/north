@@ -2,9 +2,8 @@
 
 An oAuth 1.0a Server & Client, Successor of South
 
-|---------+-------------------------------------------|
-| source  | git:http://github.com/Shinmera/north.git   |
-| commit  | e9503d4  |
-| systems | north |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------|
+| source  | git:http://github.com/Shinmera/north.git |
+| commit  | c128cb0                                  |
+| systems | north                                    |
+|---------+------------------------------------------|
