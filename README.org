@@ -4,6 +4,6 @@ An oAuth 1.0a Server & Client, Successor of South
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/Shinmera/north.git   |
-| commit  | bcaa75c                                     |
+| commit  | 77de662                                     |
 | systems | north-core north-dexador north-drakma north |
 |---------+---------------------------------------------|
